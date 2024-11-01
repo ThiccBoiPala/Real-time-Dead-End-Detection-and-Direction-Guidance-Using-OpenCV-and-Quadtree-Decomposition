@@ -1,0 +1,2 @@
+# Real-time-Dead-End-Detection-and-Direction-Guidance-Using-OpenCV-and-Quadtree-Decomposition
+This project provides real-time dead-end detection and direction guidance using OpenCV and quadtree decomposition. It processes video input to detect edges and guide movement by analyzing edge density across regions. With a Java-based GUI for visualization, it’s ideal for autonomous navigation and obstacle avoidance applications.
